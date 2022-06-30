@@ -1,7 +1,7 @@
 import React from "react";
 import WorkImg from "../assets/workImg.jpeg";
 import RealEstate from "../assets/realestate.jpg";
-import Pokedex from "../assets/pokedex-js.PNG";
+import Pokedex from "../assets/internal-pokedex.PNG";
 
 const Work = () => {
   return (
@@ -45,7 +45,7 @@ const Work = () => {
           <div
             style={{
               backgroundImage: `url(${Pokedex})`,
-              backgroundSize: "300px",
+              // backgroundSize: "300px",
             }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
