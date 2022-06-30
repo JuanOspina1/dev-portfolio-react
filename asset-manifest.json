@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dev-portfolio-react/static/css/main.989d92ba.css",
-    "main.js": "/dev-portfolio-react/static/js/main.8d59d6f0.js",
+    "main.js": "/dev-portfolio-react/static/js/main.7950fe93.js",
     "static/media/realestate.jpg": "/dev-portfolio-react/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/internal-pokedex.PNG": "/dev-portfolio-react/static/media/internal-pokedex.8896875d5b76ed158c4c.PNG",
     "static/media/dark-logo-jo.png": "/dev-portfolio-react/static/media/dark-logo-jo.0db1c339f839da0dbe4e.png",
     "static/media/workImg.jpeg": "/dev-portfolio-react/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
     "static/media/react.png": "/dev-portfolio-react/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/dev-portfolio-react/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/pokedex-js.PNG": "/dev-portfolio-react/static/media/pokedex-js.b5c7dadff5b34a810f82.PNG",
     "static/media/github.png": "/dev-portfolio-react/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/dev-portfolio-react/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/dev-portfolio-react/static/media/tailwind.e47ac876b8d4d0bba47a.png",
@@ -16,10 +16,10 @@
     "static/media/javascript.png": "/dev-portfolio-react/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/dev-portfolio-react/index.html",
     "main.989d92ba.css.map": "/dev-portfolio-react/static/css/main.989d92ba.css.map",
-    "main.8d59d6f0.js.map": "/dev-portfolio-react/static/js/main.8d59d6f0.js.map"
+    "main.7950fe93.js.map": "/dev-portfolio-react/static/js/main.7950fe93.js.map"
   },
   "entrypoints": [
     "static/css/main.989d92ba.css",
-    "static/js/main.8d59d6f0.js"
+    "static/js/main.7950fe93.js"
   ]
 }
