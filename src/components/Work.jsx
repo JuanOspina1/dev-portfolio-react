@@ -1,6 +1,7 @@
 import React from "react";
 import WorkImg from "../assets/workImg.jpeg";
 import RealEstate from "../assets/realestate.jpg";
+import Pokedex from "../assets/pokedex-js.PNG";
 
 const Work = () => {
   return (
@@ -39,14 +40,19 @@ const Work = () => {
               </div>
             </div>
           </div>
+
+          {/* I can refactor image sizing once I have several examples */}
           <div
-            style={{ backgroundImage: `url(${RealEstate})` }}
+            style={{
+              backgroundImage: `url(${Pokedex})`,
+              backgroundSize: "300px",
+            }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100">
+            <div className="opacity-0 group-hover:opacity-100 ">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                JS Pokedex App
               </span>
               <div className="pt-8 text-center">
                 <a href="/">

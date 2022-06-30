@@ -18,8 +18,10 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 250px;
+  height: 300px;
 }
+
+/* Changing the bg image, which is the size I set directly in the style */
 .content-div:hover {
   background-image: linear-gradient(
     to right,
