@@ -2,6 +2,7 @@ import React from "react";
 import WorkImg from "../assets/workImg.jpeg";
 import RealEstate from "../assets/realestate.jpg";
 import Pokedex from "../assets/internal-pokedex.PNG";
+import Netflix from "../assets/netflix-clone.PNG";
 
 const Work = () => {
   return (
@@ -18,7 +19,7 @@ const Work = () => {
         <div className="grid sm:grid-cols-2 md:grid-gol-3 gap-4">
           {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${WorkImg})` }}
+            style={{ backgroundImage: `url(${Netflix})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
