@@ -2,6 +2,7 @@ import React from "react";
 import InventoryMngr from "../assets/inventory-manager.PNG";
 import Pokedex from "../assets/internal-pokedex.PNG";
 import Netflix from "../assets/netflix-clone.PNG";
+import Weather from "../assets/weather-app.PNG";
 
 const Work = () => {
   return (
@@ -84,6 +85,32 @@ const Work = () => {
                   </button>
                 </a>
                 <a href="https://github.com/JuanOspina1/pokedex-js">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Code
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            style={{
+              backgroundImage: `url(${Weather})`,
+              // backgroundSize: "300px",
+            }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            {/* Hover Effects */}
+            <div className="opacity-0 group-hover:opacity-100 ">
+              <span className="text-2xl font-bold text-white tracking-wider">
+                Weather App
+              </span>
+              <div className="pt-8 text-center">
+                <a href="https://mysterious-wildwood-88292.herokuapp.com/">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Demo
+                  </button>
+                </a>
+                <a href="https://github.com/JuanOspina1/weather-react-express">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
