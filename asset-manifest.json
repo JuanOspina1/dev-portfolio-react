@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/dev-portfolio-react/static/css/main.989d92ba.css",
-    "main.js": "/dev-portfolio-react/static/js/main.04c82425.js",
+    "main.js": "/dev-portfolio-react/static/js/main.b7ca5955.js",
     "static/media/netflix-clone.PNG": "/dev-portfolio-react/static/media/netflix-clone.8ef1fb9ac2b1f8d2b9c5.PNG",
+    "static/media/weather-app.PNG": "/dev-portfolio-react/static/media/weather-app.4300d0b278591488ffec.PNG",
     "static/media/internal-pokedex.PNG": "/dev-portfolio-react/static/media/internal-pokedex.8896875d5b76ed158c4c.PNG",
     "static/media/dark-logo-jo.png": "/dev-portfolio-react/static/media/dark-logo-jo.0db1c339f839da0dbe4e.png",
     "static/media/inventory-manager.PNG": "/dev-portfolio-react/static/media/inventory-manager.ec0560963ee1659a3699.PNG",
@@ -16,10 +17,10 @@
     "static/media/javascript.png": "/dev-portfolio-react/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/dev-portfolio-react/index.html",
     "main.989d92ba.css.map": "/dev-portfolio-react/static/css/main.989d92ba.css.map",
-    "main.04c82425.js.map": "/dev-portfolio-react/static/js/main.04c82425.js.map"
+    "main.b7ca5955.js.map": "/dev-portfolio-react/static/js/main.b7ca5955.js.map"
   },
   "entrypoints": [
     "static/css/main.989d92ba.css",
-    "static/js/main.04c82425.js"
+    "static/js/main.b7ca5955.js"
   ]
 }
