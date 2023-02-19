@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/dev-portfolio-react/static/css/main.989d92ba.css",
-    "main.js": "/dev-portfolio-react/static/js/main.a5febfe5.js",
+    "main.js": "/dev-portfolio-react/static/js/main.a825ca8f.js",
+    "static/media/forumApp.png": "/dev-portfolio-react/static/media/forumApp.3026f329bbee2cc3f99d.png",
     "static/media/weather-app.PNG": "/dev-portfolio-react/static/media/weather-app.4300d0b278591488ffec.PNG",
     "static/media/sneek-peek-lux.PNG": "/dev-portfolio-react/static/media/sneek-peek-lux.8a8ce9984c6ffd056748.PNG",
     "static/media/dark-logo-jo.png": "/dev-portfolio-react/static/media/dark-logo-jo.0db1c339f839da0dbe4e.png",
@@ -17,10 +18,10 @@
     "static/media/javascript.png": "/dev-portfolio-react/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/dev-portfolio-react/index.html",
     "main.989d92ba.css.map": "/dev-portfolio-react/static/css/main.989d92ba.css.map",
-    "main.a5febfe5.js.map": "/dev-portfolio-react/static/js/main.a5febfe5.js.map"
+    "main.a825ca8f.js.map": "/dev-portfolio-react/static/js/main.a825ca8f.js.map"
   },
   "entrypoints": [
     "static/css/main.989d92ba.css",
-    "static/js/main.a5febfe5.js"
+    "static/js/main.a825ca8f.js"
   ]
 }
