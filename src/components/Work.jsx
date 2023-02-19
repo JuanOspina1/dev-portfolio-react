@@ -5,6 +5,7 @@ import SneekPeek from "../assets/sneek-peek-lux.PNG";
 // import Netflix from "../assets/netflix-clone.PNG";
 import Weather from "../assets/weather-app.PNG";
 import Upsoled from "../assets/upsoled.PNG";
+import Forum from "../assets/forumApp.png";
 
 const Work = () => {
   return (
@@ -109,52 +110,26 @@ const Work = () => {
             </div>
           </div>
 
-          {/* I can refactor image sizing once I have several examples */}
-          {/* <div
-            style={{
-              backgroundImage: `url(${Pokedex})`,
-              // backgroundSize: "300px",
-            }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
-          >
-            
-            <div className="opacity-0 group-hover:opacity-100 ">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                JS Pokedex App
-              </span>
-              <div className="pt-8 text-center">
-                <a href="https://juanospina1.github.io/pokedex-js/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
-                  </button>
-                </a>
-                <a href="https://github.com/JuanOspina1/pokedex-js">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div> */}
           <div
-            style={{
-              backgroundImage: `url(${Weather})`,
-              // backgroundSize: "300px",
-            }}
+            style={{ backgroundImage: `url(${Forum})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100 ">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                Weather App
+            <div className="opacity-0 group-hover:opacity-100 text-center">
+              <h1 className="text-2xl font-bold text-white tracking-wider">
+                Gaming Forum
+              </h1>
+              <span className="text-1xl font-bold text-white tracking-wider p-2">
+                Developing a forum for users to post about their favorite games
+                and interact with other users.
               </span>
               <div className="pt-8 text-center">
-                <a href="https://mysterious-wildwood-88292.herokuapp.com/">
+                {/* <a href="/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
-                </a>
-                <a href="https://github.com/JuanOspina1/weather-react-express">
+                </a> */}
+                <a href="https://github.com/minecraftFourm/app">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
